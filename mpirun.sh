@@ -1,0 +1,9 @@
+mpiexec -n 1 ./provenance config.json
+mpiexec -n 1 ./provenance config.json
+mpiexec -n 1 ./provenance config.json
+mpiexec -n 2 ./provenance config.json
+mpiexec -n 2 ./provenance config.json
+mpiexec -n 2 ./provenance config.json
+mpiexec -n 3 ./provenance config.json
+mpiexec -n 3 ./provenance config.json
+mpiexec -n 3 ./provenance config.json
